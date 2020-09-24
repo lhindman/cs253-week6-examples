@@ -1,7 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "MyApp"
+			"path": "BigMem"
+		},
+		{
+			"path": "MemoryLayout"
 		}
 	],
 	"settings": {
