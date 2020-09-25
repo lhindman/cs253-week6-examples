@@ -5,7 +5,7 @@
  */
 #include <stdio.h>
 
-
+/* Allocate 1GB char array */
 char bigGlobalData[1024 * 1024 * 1024];
 
 int main(void) {
